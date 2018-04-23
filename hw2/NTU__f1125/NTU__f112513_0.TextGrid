@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.2205 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 3.2205 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.030006236131667727 
+            text = "d_u" 
+        intervals [2]:
+            xmin = 0.030006236131667727 
+            xmax = 0.13593336995137828 
+            text = "uei" 
+        intervals [3]:
+            xmin = 0.13593336995137828 
+            xmax = 0.32035316906897265 
+            text = "s_empt" 
+        intervals [4]:
+            xmin = 0.32035316906897265 
+            xmax = 0.39016255581680864 
+            text = "empt2" 
+        intervals [5]:
+            xmin = 0.39016255581680864 
+            xmax = 0.500217189222118 
+            text = "sic_i" 
+        intervals [6]:
+            xmin = 0.500217189222118 
+            xmax = 0.7503134933465533 
+            text = "iang" 
+        intervals [7]:
+            xmin = 0.7503134933465533 
+            xmax = 0.869911412786094 
+            text = "chi_i" 
+        intervals [8]:
+            xmin = 0.869911412786094 
+            xmax = 1.0500583721050185 
+            text = "iou" 
+        intervals [9]:
+            xmin = 1.0500583721050185 
+            xmax = 1.1500836010939348 
+            text = "t_i" 
+        intervals [10]:
+            xmin = 1.1500836010939348 
+            xmax = 1.3600991374828986 
+            text = "ian" 
+        intervals [11]:
+            xmin = 1.3600991374828986 
+            xmax = 1.500116794467566 
+            text = "chi_iu" 
+        intervals [12]:
+            xmin = 1.500116794467566 
+            xmax = 1.7400899469700122 
+            text = "iuan" 
+        intervals [13]:
+            xmin = 1.7400899469700122 
+            xmax = 1.8900947585129666 
+            text = "shi_i" 
+        intervals [14]:
+            xmin = 1.8900947585129666 
+            xmax = 2.0502098776707434 
+            text = "ing" 
+        intervals [15]:
+            xmin = 2.0502098776707434 
+            xmax = 2.1597765664013404 
+            text = "chi_iu" 
+        intervals [16]:
+            xmin = 2.1597765664013404 
+            xmax = 2.2799982636933493 
+            text = "iu" 
+        intervals [17]:
+            xmin = 2.2799982636933493 
+            xmax = 2.389884730698758 
+            text = "sic_a" 
+        intervals [18]:
+            xmin = 2.389884730698758 
+            xmax = 2.5693179993135544 
+            text = "ang" 
+        intervals [19]:
+            xmin = 2.5693179993135544 
+            xmax = 2.709967431135398 
+            text = "r_a" 
+        intervals [20]:
+            xmin = 2.709967431135398 
+            xmax = 3.1145060868792975 
+            text = "en " 
+        intervals [21]:
+            xmin = 3.1145060868792975 
+            xmax = 3.2205 
+            text = " sil" 

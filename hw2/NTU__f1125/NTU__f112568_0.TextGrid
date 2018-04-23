@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.533 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 2.533 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02992582060172522 
+            text = "tz_e" 
+        intervals [2]:
+            xmin = 0.02992582060172522 
+            xmax = 0.13013947490737604 
+            text = "e" 
+        intervals [3]:
+            xmin = 0.13013947490737604 
+            xmax = 0.24024927582345987 
+            text = "m_o" 
+        intervals [4]:
+            xmin = 0.24024927582345987 
+            xmax = 0.48017359821730865 
+            text = "o" 
+        intervals [5]:
+            xmin = 0.48017359821730865 
+            xmax = 0.679856804366967 
+            text = "m_i" 
+        intervals [6]:
+            xmin = 0.679856804366967 
+            xmax = 0.7641063546798765 
+            text = "ing" 
+        intervals [7]:
+            xmin = 0.7641063546798765 
+            xmax = 0.8911009020637879 
+            text = "sic_iu" 
+        intervals [8]:
+            xmin = 0.8911009020637879 
+            xmax = 1.0800798607634863 
+            text = "iun" 
+        intervals [9]:
+            xmin = 1.0800798607634863 
+            xmax = 1.229915765340656 
+            text = "r_u" 
+        intervals [10]:
+            xmin = 1.229915765340656 
+            xmax = 1.3229009416747974 
+            text = "u" 
+        intervals [11]:
+            xmin = 1.3229009416747974 
+            xmax = 1.4601464884570268 
+            text = "ts_empt" 
+        intervals [12]:
+            xmin = 1.4601464884570268 
+            xmax = 1.6273976670779142 
+            text = "empt2" 
+        intervals [13]:
+            xmin = 1.6273976670779142 
+            xmax = 1.6462699227093824 
+            text = "sp" 
+        intervals [14]:
+            xmin = 1.6462699227093824 
+            xmax = 1.79984193794883 
+            text = "k_a" 
+        intervals [15]:
+            xmin = 1.79984193794883 
+            xmax = 2.029954466427693 
+            text = "en" 
+        intervals [16]:
+            xmin = 2.029954466427693 
+            xmax = 2.160085090369004 
+            text = "k_e" 
+        intervals [17]:
+            xmin = 2.160085090369004 
+            xmax = 2.398944311576208 
+            text = "e" 
+        intervals [18]:
+            xmin = 2.398944311576208 
+            xmax = 2.533 
+            text = "sil" 
